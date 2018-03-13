@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai01-Server", "Bai01-Server\Bai01-Server.csproj", "{22D40374-46F3-407E-8972-E1BDD6E868B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai01-Client", "Bai01-Client\Bai01-Client.csproj", "{8BFBC5CF-717B-41CA-8D52-2D71FA24F75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D40374-46F3-407E-8972-E1BDD6E868B6}.Debug|x86.ActiveCfg = Debug|x86
+		{22D40374-46F3-407E-8972-E1BDD6E868B6}.Debug|x86.Build.0 = Debug|x86
+		{22D40374-46F3-407E-8972-E1BDD6E868B6}.Release|x86.ActiveCfg = Release|x86
+		{22D40374-46F3-407E-8972-E1BDD6E868B6}.Release|x86.Build.0 = Release|x86
+		{8BFBC5CF-717B-41CA-8D52-2D71FA24F75C}.Debug|x86.ActiveCfg = Debug|x86
+		{8BFBC5CF-717B-41CA-8D52-2D71FA24F75C}.Debug|x86.Build.0 = Debug|x86
+		{8BFBC5CF-717B-41CA-8D52-2D71FA24F75C}.Release|x86.ActiveCfg = Release|x86
+		{8BFBC5CF-717B-41CA-8D52-2D71FA24F75C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
